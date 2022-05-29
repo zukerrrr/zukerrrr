@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @zukerrrr
+- 👋 Hi, I’m Vibha badhe
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Microsoft azure
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vibhabadhe123@gmail.com
+- 🌱 I’m currently learning python
+- 📫 You can reach me @ vibhabadhe123@gmail.com
 
 <!---
 zukerrrr/zukerrrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
